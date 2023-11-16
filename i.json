@@ -1,0 +1,44 @@
+[
+    {
+        "page": "https://34.149.213.158",
+        "method": "get"
+    },
+    {
+        "page": "https://104.18.6.47",
+        "method": "get"
+    },
+    {
+        "page": "https://104.18.4.244",
+        "method": "get"
+    },
+    {
+        "page": "https://151.101.2.217",
+        "method": "get"
+    },
+    {
+        "page": "https://192.124.249.15",
+        "method": "get"
+    },
+    {
+        "page": "https://104.18.20.245",
+        "method": "get"
+    },
+    {
+        "page": "https://151.101.2.217",
+        "method": "get"
+    },
+    {
+        "page": "https://107.180.41.158",
+        "method": "get"
+    },
+    {
+        "page": "https://104.18.12.170",
+        "method": "get"
+    },
+    {
+        "page": "https://2.18.121.81",
+        "method": "get"
+    }
+
+    
+]
